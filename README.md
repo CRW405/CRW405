@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**CRW405/CRW405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+Programmer, Teacher, and Student
+## Things I like
+- Linux
+  - Arch
+  - Hyprland <details><summary> </summary>btw</details>
+- Computers
+- Programming
+  - Web Dev
+  - Bash Scripting
+  - Java(script)
+  - Python Utility Scripts
+- Music
