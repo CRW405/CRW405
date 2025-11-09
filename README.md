@@ -9,6 +9,7 @@ Programmer, Teacher, Student
 - Neovim
 ## Beyond Computers
 - OCU ACM President
+- iCode Instructor
 ### Things I enjoy
 - Art
 - Music
