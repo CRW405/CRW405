@@ -1,13 +1,20 @@
 ## About Me
-Programmer, Teacher, and Student
-## Things I like
-- Linux
-  - Arch
-  - Hyprland <details><summary> </summary>btw</details>
-- Computers
-- Programming
-  - Web Dev
-  - Bash Scripting
-  - Java(script)
-  - Python Utility Scripts
+Programmer, Teacher, Student
+## About My Tools (Preferred)
+### OS
+- Arch, Debian
+### DE/WM
+- HyprLand, Niri, KDE
+### Editor/IDE
+- Neovim
+## Beyond Computers
+- OCU ACM President
+### Things I enjoy
+- Art
 - Music
+- Nature
+- Learning
+- Teaching
+- Creating
+- Animals
+- Cooking
