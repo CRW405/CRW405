@@ -3,7 +3,7 @@
 
 ## About Me
 
-Programmer, Teacher, Student
+Programmer, Teacher, Student, Researcher
 
 ## More
 
