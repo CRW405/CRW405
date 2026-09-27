@@ -2,6 +2,7 @@
 # Goodbye Space
 
 Star my projects so I get a job.
+[Check out my website!](https://crw405.github.io/interweb/)
 
 ## About Me
 
@@ -23,7 +24,7 @@ Programmer, Teacher, Student, Researcher
 - Art 
 - Open Source
 - Indie Web
-- Old Technology and Computing History 
+- Old Technology and Computing History
 
 ## More
 
@@ -31,5 +32,3 @@ Programmer, Teacher, Student, Researcher
 - iCode Instructor
 - Vim Enjoyer
 - Windows Hater
-
-[Check out my website](https://crw405.github.io/interweb/)
