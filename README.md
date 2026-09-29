@@ -44,3 +44,4 @@ Programming Interests.
 - Open Source
 - Indie Web
 - Old Technology and Computing History
+- Privacy + Security
