@@ -31,7 +31,7 @@ Projects of mine I like.
 - [TACC REU HPC Research](https://github.com/CRW405/REU-HPC-Research)
 - [Learning how OS's work by making my own](https://github.com/CRW405/os)
 - [Personal Website and JS Window Manager Library](https://crw405.github.io/interweb/)
-- [Recursive Tic-Tac_Toe, supporting Tic-Tac-Toe, Ultimate Tic-Tac-Toe, and Beyond](https://github.com/CRW405/uttt)
+- [Recursive Tic-Tac-Toe, supporting Tic-Tac-Toe, Ultimate Tic-Tac-Toe, and Beyond](https://github.com/CRW405/uttt)
 
 ## Interests
 
