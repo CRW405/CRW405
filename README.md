@@ -21,11 +21,11 @@ Projects of mine I want to highlight:
 - [TACC REU HPC Research](https://github.com/CRW405/REU-HPC-Research)
 - [Personal Website and JS Window Manager Library](https://github.com/CRW405/interweb/)
 - [Recursive Tic-Tac-Toe, supporting Tic-Tac-Toe, Ultimate Tic-Tac-Toe, and Beyond](https://github.com/CRW405/uttt)
-- [C Sand Sim](https://github.com/CRW405/cimpleSand)
+- [C Sand Sim and Text Based Renderer](https://github.com/CRW405/cimpleSand)
 - [C ASCII Based Software Renderer](https://github.com/CRW405/CimpleRenderer)
 - [Learning Vulkan in C](https://github.com/CRW405/vulkanc)
 - [C++ Vulkan Bootstrap Engine](https://github.com/CRW405/oxide)
-- [Learning how OS's work by making my own](https://github.com/CRW405/os)
+- [Learning how OS's work by making my own in assembly and C](https://github.com/CRW405/os)
 
 ## Interests
 
