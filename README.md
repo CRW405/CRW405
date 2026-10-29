@@ -1,8 +1,8 @@
 
 # Goodbye Space
 
-Star my projects so I get a job.
-[Check out my website!](https://crw405.github.io/interweb/)
+- Star my projects so I get a job.
+- [Check out my website!](https://crw405.github.io/interweb/)
 
 ## About Me
 
@@ -11,27 +11,21 @@ Programmer, Teacher, Student, Researcher.
 - OCU ACM President
 - iCode Instructor
 - Vim Enjoyer
-- Windows Hater
 
 ## Things
 
-Things I like or think should get more attention.
-
-- Music: Femtynal 
-- Gaming: Voices of the Void
-- Bird Of The Day: Red Winged Black Bird
-
 ## Project Showcase
 
-Projects of mine I like.
+Projects of mine I want to highlight:
 
+- [TACC REU HPC Research](https://github.com/CRW405/REU-HPC-Research)
+- [Personal Website and JS Window Manager Library](https://github.com/CRW405/interweb/)
+- [Recursive Tic-Tac-Toe, supporting Tic-Tac-Toe, Ultimate Tic-Tac-Toe, and Beyond](https://github.com/CRW405/uttt)
 - [C Sand Sim](https://github.com/CRW405/cimpleSand)
 - [C ASCII Based Software Renderer](https://github.com/CRW405/CimpleRenderer)
 - [Learning Vulkan in C](https://github.com/CRW405/vulkanc)
-- [TACC REU HPC Research](https://github.com/CRW405/REU-HPC-Research)
+- [C++ Vulkan Bootstrap Engine](https://github.com/CRW405/oxide)
 - [Learning how OS's work by making my own](https://github.com/CRW405/os)
-- [Personal Website and JS Window Manager Library](https://github.com/CRW405/interweb/)
-- [Recursive Tic-Tac-Toe, supporting Tic-Tac-Toe, Ultimate Tic-Tac-Toe, and Beyond](https://github.com/CRW405/uttt)
 
 ## Interests
 
