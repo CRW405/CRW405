@@ -12,8 +12,6 @@ Programmer, Teacher, Student, Researcher.
 - iCode Instructor
 - Vim Enjoyer
 
-## Things
-
 ## Project Showcase
 
 Projects of mine I want to highlight:
