@@ -3,6 +3,7 @@
 
 - Star my projects so I get a job.
 - [Check out my website!](https://crw405.github.io/interweb/)
+- Cloud Computing is evil and bad.
 
 ## About Me
 
