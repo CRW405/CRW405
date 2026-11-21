@@ -3,7 +3,7 @@
 
 - Star my projects so I get a job.
 - [Check out my website!](https://crw405.github.io/interweb/)
-- Cloud Computing is evil and bad.
+- Cloud Computing is evil.
 
 ## About Me
 
@@ -12,6 +12,13 @@ Programmer, Teacher, Student, Researcher.
 - OCU ACM President
 - iCode Instructor
 - Vim Enjoyer
+
+More info on my website.
+
+## About My Enviroment
+
+- [Desktop Enviroment](https://github.com/CRW405/hypr)
+- [Neovim Setup](https://github.com/CRW405/nvim)
 
 ## Project Showcase
 
